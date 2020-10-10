@@ -5,6 +5,7 @@ Python for Data Science Essential Training Part 2 : LinkedIn
 - Linear regression
   - Linear regression is a statistical machine learning method you can use to quantify and make predictions based on relationships between numerical variables
     1. Simple Linear Regression :- One predictor and One Predictant
+    -  https://github.com/ishanbhawantha/Python-for-Data-Science-Essential-Training-Part-2/blob/main/Chapter_3_Regression_Model_Simple_Linear_Regression.ipynb
     2. Multiple Lenear Regression :-  Multiple Predictor and One Predictant.
     
     Assumptions
